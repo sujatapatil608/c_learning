@@ -43,4 +43,5 @@ int main()
 	printf("\t");
 	printf("bytes:%d",sizeof(x));
 	
+	
 }
